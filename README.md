@@ -74,4 +74,4 @@ CI runs the same three commands on Python 3.11.
 - [x] Real-time interleaved stream and exportable catalog
 - [x] CI (ruff + pytest), architecture notes
 - [ ] Scenarios: high-load, duplicate, out-of-order (skeleton only: `--scenario` is declared, only `normal` runs)
-- [ ] v0.1.0 release (tag)
+- [x] v0.1.0 release
